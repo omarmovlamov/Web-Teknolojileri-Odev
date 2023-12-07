@@ -1,0 +1,5 @@
+Merhaba hocam, ben Omar Movlamov (2012707326) İnşaat mühendisliği 4. sınıf  öğrencisiyim.
+
+Hocam bu projede basit bir home page tasarladım. Projede html, css, js, jquery ve bootstrap teknolojilerini kullandım. Aynı zamanda projeyi responsive tasarladım istediğiniz gibi her tür mobil, tablet veya bilgisayardan girerek test edebilirsiniz.
+
+"Aynı zamanda hocam react.js ve next.js ile projeler geliştiriyorum ve kendi bölümümden alakasız olmasına rağmen bir siber güvenlik üzerine kurulu yazılım şirketinde çalışıyorum Frontend Dev. olarak. Sizden ricam hocam eğer müsait bir zamanda portfolio'mu inceleyerek akademik yada kendimi geliştirmem konusunda nasıl bir yol izlemem gerektiği hakkında bir yol gösterirseniz çok sevinirim. https://omarmovlamov.netlify.app " İyi Günler Cevriye Hocam.
